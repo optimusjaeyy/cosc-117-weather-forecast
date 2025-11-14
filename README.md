@@ -1,4 +1,4 @@
-# COSC 117 Weather Forecast (Buggy)
+# COSC 117 Weather Forecast (Fixed)
 
 ## Installation
 
@@ -10,14 +10,12 @@ API_KEY = "<YOUR API KEY>"
 
 Where `<YOUR API KEY>` should be your own API key from [weatherapi.com](https://www.weatherapi.com). You can register your account for free.
 
-
 ## Bug
 
 There is a bug in the program. Can you locate it and fix it?
 
-
-
 ## LICENSE
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
